@@ -1,0 +1,11 @@
+C:\Users\Leonardo\source\repos\LocadoraTest\RaroLabsTest\VideoRental.Data\bin\Debug\netcoreapp3.1\VideoRental.Data.deps.json
+C:\Users\Leonardo\source\repos\LocadoraTest\RaroLabsTest\VideoRental.Data\bin\Debug\netcoreapp3.1\VideoRental.Data.dll
+C:\Users\Leonardo\source\repos\LocadoraTest\RaroLabsTest\VideoRental.Data\obj\Debug\netcoreapp3.1\VideoRental.Data.csprojAssemblyReference.cache
+C:\Users\Leonardo\source\repos\LocadoraTest\RaroLabsTest\VideoRental.Data\obj\Debug\netcoreapp3.1\VideoRental.Data.AssemblyInfoInputs.cache
+C:\Users\Leonardo\source\repos\LocadoraTest\RaroLabsTest\VideoRental.Data\obj\Debug\netcoreapp3.1\VideoRental.Data.AssemblyInfo.cs
+C:\Users\Leonardo\source\repos\LocadoraTest\RaroLabsTest\VideoRental.Data\bin\Debug\netcoreapp3.1\VideoRental.Domain.dll
+C:\Users\Leonardo\source\repos\LocadoraTest\RaroLabsTest\VideoRental.Data\bin\Debug\netcoreapp3.1\VideoRental.Data.pdb
+C:\Users\Leonardo\source\repos\LocadoraTest\RaroLabsTest\VideoRental.Data\bin\Debug\netcoreapp3.1\VideoRental.Domain.pdb
+C:\Users\Leonardo\source\repos\LocadoraTest\RaroLabsTest\VideoRental.Data\obj\Debug\netcoreapp3.1\VideoRental.Data.csproj.CopyComplete
+C:\Users\Leonardo\source\repos\LocadoraTest\RaroLabsTest\VideoRental.Data\obj\Debug\netcoreapp3.1\VideoRental.Data.dll
+C:\Users\Leonardo\source\repos\LocadoraTest\RaroLabsTest\VideoRental.Data\obj\Debug\netcoreapp3.1\VideoRental.Data.pdb

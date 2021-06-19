@@ -1,0 +1,8 @@
+C:\Users\Leonardo\source\repos\LocadoraTest\RaroLabsTest\VideoRental.Domain\bin\Debug\netcoreapp3.1\VideoRental.Domain.deps.json
+C:\Users\Leonardo\source\repos\LocadoraTest\RaroLabsTest\VideoRental.Domain\bin\Debug\netcoreapp3.1\VideoRental.Domain.dll
+C:\Users\Leonardo\source\repos\LocadoraTest\RaroLabsTest\VideoRental.Domain\bin\Debug\netcoreapp3.1\VideoRental.Domain.pdb
+C:\Users\Leonardo\source\repos\LocadoraTest\RaroLabsTest\VideoRental.Domain\obj\Debug\netcoreapp3.1\VideoRental.Domain.csprojAssemblyReference.cache
+C:\Users\Leonardo\source\repos\LocadoraTest\RaroLabsTest\VideoRental.Domain\obj\Debug\netcoreapp3.1\VideoRental.Domain.AssemblyInfoInputs.cache
+C:\Users\Leonardo\source\repos\LocadoraTest\RaroLabsTest\VideoRental.Domain\obj\Debug\netcoreapp3.1\VideoRental.Domain.AssemblyInfo.cs
+C:\Users\Leonardo\source\repos\LocadoraTest\RaroLabsTest\VideoRental.Domain\obj\Debug\netcoreapp3.1\VideoRental.Domain.dll
+C:\Users\Leonardo\source\repos\LocadoraTest\RaroLabsTest\VideoRental.Domain\obj\Debug\netcoreapp3.1\VideoRental.Domain.pdb

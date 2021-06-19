@@ -1,0 +1,67 @@
+﻿@model VideoRental.Web.Models.DTO.FilmeDTO
+
+@{
+    ViewData["Title"] = "CadastrarFilme";
+}
+
+    <div class="content">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="card card-default">
+                    <div class="card-header card-header-border-bottom">
+                        <h2>Cadastrar Filme</h2>
+                    </div>
+                    <div class="card-body">
+                        <form asp-action="CadastrarFilme" method="post">
+                            <div class="form-group">
+                                <label for="inputAddress2">Nome do Filme</label>
+                                <input type="text" class="form-control" id="inputAddress2" asp-for="Nome" placeholder="Filme">
+                                <span asp-validation-for="Nome" class="text-danger"></span>
+                            </div>
+                            <div class="form-row">
+                                <div class="form-group col-md-6">
+                                    <label for="inputCity">Ano</label>
+                                    <input type="text" class="form-control" id="inputCity" asp-for="Ano" placeholder="Ano">
+                                    <span asp-validation-for="Ano" class="text-danger"></span>
+                                </div>
+                                <div class="form-group col-md-4">
+                                    <label for="inputState">Gênero</label>
+                                    <select asp-for="GeneroId" id="inputState" class="form-control" asp-items="@ViewBag.gen">
+                                        <option value=0 selected>Escolher...</option>
+                                    </select>
+                                    <span asp-validation-for="GeneroId" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                @*<label for="inputAddress2">Nome</label>
+                                <input type="text" class="form-control" id="inputAddress2" placeholder="Apartment, studio, or floor">*@
+                            </div>
+                            <div class="form-row">
+                                <div class="form-group col-md-6">
+                                    <label for="inputCity">Classificação</label>
+                                    <input type="text" class="form-control" id="inputCity" asp-for="Classificacao" placeholder="Classificação">
+                                    <span asp-validation-for="Classificacao" class="text-danger"></span>
+                                </div>
+                                <div class="form-group col-md-4">
+                                    <label for="inputCity">Duração</label>
+                                    <input type="text" class="form-control" id="inputCity" asp-for="Duracao" placeholder="Duração">
+                                    <span asp-validation-for="Duracao" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <button type="submit" class="btn btn-primary"><i class="mdi mdi-import"></i>Cadastrar</button>
+                                <a type="button" href="@Url.Action("Index","Filme")" class="btn btn-dark"><i class="mdi mdi-arrow-left-bold"></i>Voltar</a>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+

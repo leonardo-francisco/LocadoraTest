@@ -1,0 +1,11 @@
+C:\Users\Leonardo\source\repos\LocadoraTest\RaroLabsTest\VideoRental.Services\bin\Debug\netcoreapp3.1\VideoRental.Services.deps.json
+C:\Users\Leonardo\source\repos\LocadoraTest\RaroLabsTest\VideoRental.Services\bin\Debug\netcoreapp3.1\VideoRental.Services.dll
+C:\Users\Leonardo\source\repos\LocadoraTest\RaroLabsTest\VideoRental.Services\bin\Debug\netcoreapp3.1\VideoRental.Services.pdb
+C:\Users\Leonardo\source\repos\LocadoraTest\RaroLabsTest\VideoRental.Services\bin\Debug\netcoreapp3.1\VideoRental.Domain.dll
+C:\Users\Leonardo\source\repos\LocadoraTest\RaroLabsTest\VideoRental.Services\bin\Debug\netcoreapp3.1\VideoRental.Domain.pdb
+C:\Users\Leonardo\source\repos\LocadoraTest\RaroLabsTest\VideoRental.Services\obj\Debug\netcoreapp3.1\VideoRental.Services.csprojAssemblyReference.cache
+C:\Users\Leonardo\source\repos\LocadoraTest\RaroLabsTest\VideoRental.Services\obj\Debug\netcoreapp3.1\VideoRental.Services.AssemblyInfoInputs.cache
+C:\Users\Leonardo\source\repos\LocadoraTest\RaroLabsTest\VideoRental.Services\obj\Debug\netcoreapp3.1\VideoRental.Services.AssemblyInfo.cs
+C:\Users\Leonardo\source\repos\LocadoraTest\RaroLabsTest\VideoRental.Services\obj\Debug\netcoreapp3.1\VideoRental.Services.csproj.CopyComplete
+C:\Users\Leonardo\source\repos\LocadoraTest\RaroLabsTest\VideoRental.Services\obj\Debug\netcoreapp3.1\VideoRental.Services.dll
+C:\Users\Leonardo\source\repos\LocadoraTest\RaroLabsTest\VideoRental.Services\obj\Debug\netcoreapp3.1\VideoRental.Services.pdb
